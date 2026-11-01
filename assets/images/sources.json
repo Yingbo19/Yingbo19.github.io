@@ -1,0 +1,102 @@
+[
+  {
+    "asset": "assets/images/niche-data.webp",
+    "source_file": "Yang-new phytologist-2025.pdf",
+    "page": 6,
+    "figure": "Fig. 1",
+    "doi": "10.1111/nph.70680",
+    "width": 1494,
+    "height": 1597,
+    "processing": "Figure extracted from author-supplied PDF; chart content not redrawn."
+  },
+  {
+    "asset": "assets/images/niche-space.webp",
+    "source_file": "Yang-new phytologist-2025.pdf",
+    "page": 7,
+    "figure": "Fig. 2",
+    "doi": "10.1111/nph.70680",
+    "width": 1040,
+    "height": 599,
+    "processing": "Figure extracted from author-supplied PDF; chart content not redrawn."
+  },
+  {
+    "asset": "assets/images/niche-shifts.webp",
+    "source_file": "Yang-new phytologist-2025.pdf",
+    "page": 8,
+    "figure": "Fig. 4",
+    "doi": "10.1111/nph.70680",
+    "width": 1590,
+    "height": 892,
+    "processing": "Figure extracted from author-supplied PDF; chart content not redrawn."
+  },
+  {
+    "asset": "assets/images/mountain-diversity.webp",
+    "source_file": "Yang-jbi-2026.pdf",
+    "page": 6,
+    "figure": "Fig. 1",
+    "doi": "10.1111/jbi.70299",
+    "width": 1508,
+    "height": 768,
+    "processing": "Figure extracted from author-supplied PDF; chart content not redrawn."
+  },
+  {
+    "asset": "assets/images/mountain-niches.webp",
+    "source_file": "Yang-jbi-2026.pdf",
+    "page": 8,
+    "figure": "Fig. 4",
+    "doi": "10.1111/jbi.70299",
+    "width": 1428,
+    "height": 1242,
+    "processing": "Figure extracted from author-supplied PDF; chart content not redrawn."
+  },
+  {
+    "asset": "assets/images/medicago-richness.webp",
+    "source_file": "Yang-ecography-2022.pdf",
+    "page": 5,
+    "figure": "Fig. 1",
+    "doi": "10.1111/ecog.06085",
+    "width": 1498,
+    "height": 592,
+    "processing": "Figure extracted from author-supplied PDF; chart content not redrawn."
+  },
+  {
+    "asset": "assets/images/invasion-patterns.webp",
+    "source_file": "Yang-geco-2023.pdf",
+    "page": 3,
+    "figure": "Fig. 1",
+    "doi": "10.1016/j.gecco.2023.e02424",
+    "width": 1381,
+    "height": 1107,
+    "processing": "Figure extracted from author-supplied PDF; chart content not redrawn."
+  },
+  {
+    "asset": "assets/images/invasion-hotspots.webp",
+    "source_file": "Yang-geco-2023.pdf",
+    "page": 4,
+    "figure": "Fig. 2",
+    "doi": "10.1016/j.gecco.2023.e02424",
+    "width": 1381,
+    "height": 558,
+    "processing": "Figure extracted from author-supplied PDF; chart content not redrawn."
+  },
+  {
+    "asset": "assets/images/medicago-genomics.webp",
+    "source_file": "Guo&Yang-molecular ecology-2023.pdf",
+    "page": 7,
+    "figure": "Fig. 2",
+    "doi": "10.1111/mec.16925",
+    "width": 1550,
+    "height": 1320,
+    "processing": "Figure extracted from author-supplied PDF; chart content not redrawn."
+  },
+  {
+    "asset": "assets/images/invasion-forecast.webp",
+    "source_file": "Yang-IJER-2018.pdf",
+    "page": 6,
+    "figure": "Fig. 3",
+    "doi": "10.1007/s41742-018-0146-3",
+    "width": 1477,
+    "height": 1065,
+    "processing": "Figure extracted from author-supplied PDF; chart content not redrawn."
+  }
+]
